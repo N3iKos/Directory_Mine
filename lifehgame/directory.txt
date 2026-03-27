@@ -1,0 +1,1335 @@
+Menghitung daftar file... 
+-------------------------------------- 
+DIREKTORI: D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1 
+-------------------------------------- 
+ Volume in drive D is Disk
+ Volume Serial Number is 68C7-3389
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1
+
+27/03/2026  00:13    <DIR>          ..
+11/10/2025  11:44    <DIR>          Happy Student_Data
+11/10/2025  11:45    <DIR>          MonoBleedingEdge
+27/03/2026  18:09    <DIR>          .
+27/03/2026  18:09               179 daftar_file_game.txt
+03/03/2026  19:48               372 Auto Check Directory.bat
+11/10/2025  11:43           666.624 Happy Student.exe
+11/10/2025  11:43         1.114.136 UnityCrashHandler64.exe
+11/10/2025  11:43        30.706.200 UnityPlayer.dll
+               5 File(s)     32.487.511 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data
+
+11/10/2025  11:44    <DIR>          .
+27/03/2026  18:09    <DIR>          ..
+11/10/2025  11:44    <DIR>          StreamingAssets
+11/10/2025  11:44    <DIR>          Resources
+11/10/2025  11:44    <DIR>          Plugins
+11/10/2025  11:44    <DIR>          Managed
+11/10/2025  11:43                33 app.info
+11/10/2025  11:43               113 boot.config
+11/10/2025  11:43               289 sharedassets0.assets
+11/10/2025  11:43             1.844 level0
+11/10/2025  11:43             2.937 sharedassets2.assets
+11/10/2025  11:44             3.405 sharedassets4.assets
+11/10/2025  11:43             4.236 RuntimeInitializeOnLoads.json
+11/10/2025  11:43             4.822 ScriptingAssemblies.json
+11/10/2025  11:43             8.192 level2
+11/10/2025  11:43            17.800 level4
+11/10/2025  11:43            96.736 level1
+11/10/2025  11:43           218.496 sharedassets3.resource
+11/10/2025  11:43           630.528 globalgamemanagers
+11/10/2025  11:43           778.200 sharedassets3.assets
+11/10/2025  11:43           953.916 globalgamemanagers.assets
+11/10/2025  11:43         2.094.672 level3
+11/10/2025  11:43         2.533.504 resources.resource
+11/10/2025  11:43         6.049.296 globalgamemanagers.assets.resS
+11/10/2025  11:43        11.098.868 sharedassets1.assets
+11/10/2025  11:43        12.603.752 resources.assets
+11/10/2025  11:43        22.236.544 sharedassets3.assets.resS
+11/10/2025  11:43       618.877.648 resources.assets.resS
+11/10/2025  11:43       818.836.688 sharedassets1.assets.resS
+11/10/2025  11:43     1.100.343.627 sharedassets1.resource
+              24 File(s)  2.597.396.146 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\Managed
+
+11/10/2025  11:44    <DIR>          ..
+11/10/2025  11:44    <DIR>          .
+11/10/2025  11:43             4.096 Unity.Collections.LowLevel.ILSupport.dll
+11/10/2025  11:43             5.120 Unity.RenderPipelines.Core.ShaderLibrary.dll
+11/10/2025  11:43             5.120 Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+11/10/2025  11:43             5.120 Unity.RenderPipelines.Universal.Shaders.dll
+11/10/2025  11:43             5.632 Unity.Burst.Unsafe.dll
+11/10/2025  11:43             5.632 Unity.Services.Core.Analytics.dll
+11/10/2025  11:43             5.632 Unity.Services.Core.Environments.Internal.dll
+11/10/2025  11:43             5.632 Sirenix.OdinInspector.Modules.Unity.Addressables.dll
+11/10/2025  11:43             6.144 Unity.Services.Core.Environments.dll
+11/10/2025  11:43             6.656 Unity.InternalAPIEngineBridge.001.dll
+11/10/2025  11:43             7.168 Unity.Services.Core.Threading.dll
+11/10/2025  11:43             7.168 Unity.RemoteConfig.Editor.Core.dll
+11/10/2025  11:43             7.168 Unity.Services.Core.Device.dll
+11/10/2025  11:43             8.192 Unity.Services.Core.Networking.dll
+11/10/2025  11:43             8.704 Unity.RenderPipeline.Universal.ShaderLibrary.dll
+11/10/2025  11:43             8.704 Unity.Services.Core.Telemetry.dll
+11/10/2025  11:43             8.704 KinoBloom.Runtime.dll
+11/10/2025  11:43             9.216 Unity.ScriptableBuildPipeline.dll
+11/10/2025  11:43            10.240 CFXRDemo.dll
+11/10/2025  11:43            12.288 System.Runtime.dll
+11/10/2025  11:43            12.800 Unity.2D.PixelPerfect.dll
+11/10/2025  11:43            13.312 Unity.Services.Core.Scheduler.dll
+11/10/2025  11:43            14.848 Unity.Services.Core.dll
+11/10/2025  11:43            14.848 DemiLib.dll
+11/10/2025  11:43            14.848 Unity.Services.Core.Configuration.dll
+11/10/2025  11:43            16.384 DOTweenPro.dll
+11/10/2025  11:43            17.920 Sirenix.Serialization.Config.dll
+11/10/2025  11:43            18.432 System.IO.Compression.FileSystem.dll
+11/10/2025  11:43            18.944 Unity.Services.Core.Registration.dll
+11/10/2025  11:43            19.992 UnityEngine.GIModule.dll
+11/10/2025  11:43            19.992 UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+11/10/2025  11:43            19.992 UnityEngine.ProfilerModule.dll
+11/10/2025  11:43            19.992 UnityEngine.UmbraModule.dll
+11/10/2025  11:43            19.992 UnityEngine.UnityTestProtocolModule.dll
+11/10/2025  11:43            19.992 UnityEngine.HotReloadModule.dll
+11/10/2025  11:43            20.480 CFXRRuntime.dll
+11/10/2025  11:43            20.504 UnityEngine.StreamingModule.dll
+11/10/2025  11:43            20.504 UnityEngine.PerformanceReportingModule.dll
+11/10/2025  11:43            20.992 Unity.2D.IK.Runtime.dll
+11/10/2025  11:43            21.016 UnityEngine.UnityAnalyticsCommonModule.dll
+11/10/2025  11:43            21.016 UnityEngine.WindModule.dll
+11/10/2025  11:43            21.016 UnityEngine.TerrainPhysicsModule.dll
+11/10/2025  11:43            21.016 UnityEngine.LocalizationModule.dll
+11/10/2025  11:43            21.016 UnityEngine.CrashReportingModule.dll
+11/10/2025  11:43            21.016 UnityEngine.ARModule.dll
+11/10/2025  11:43            21.016 UnityEngine.ScreenCaptureModule.dll
+11/10/2025  11:43            21.528 UnityEngine.UnityCurlModule.dll
+11/10/2025  11:43            21.528 UnityEngine.ClusterInputModule.dll
+11/10/2025  11:43            21.528 UnityEngine.SpriteMaskModule.dll
+11/10/2025  11:43            21.528 UnityEngine.UnityWebRequestTextureModule.dll
+11/10/2025  11:43            21.528 UnityEngine.UnityConnectModule.dll
+11/10/2025  11:43            22.040 UnityEngine.JSONSerializeModule.dll
+11/10/2025  11:43            22.040 UnityEngine.ClusterRendererModule.dll
+11/10/2025  11:43            22.552 UnityEngine.UnityWebRequestAudioModule.dll
+11/10/2025  11:43            23.064 UnityEngine.UnityWebRequestAssetBundleModule.dll
+11/10/2025  11:43            23.576 UnityEngine.AccessibilityModule.dll
+11/10/2025  11:43            23.576 UnityEngine.InputModule.dll
+11/10/2025  11:43            24.088 UnityEngine.ImageConversionModule.dll
+11/10/2025  11:43            24.088 UnityEngine.VehiclesModule.dll
+11/10/2025  11:43            24.600 UnityEngine.DirectorModule.dll
+11/10/2025  11:43            24.600 UnityEngine.SubstanceModule.dll
+11/10/2025  11:43            25.112 UnityEngine.GridModule.dll
+11/10/2025  11:43            26.136 UnityEngine.VRModule.dll
+11/10/2025  11:43            26.136 UnityEngine.ClothModule.dll
+11/10/2025  11:43            26.136 UnityEngine.SpriteShapeModule.dll
+11/10/2025  11:43            26.648 UnityEngine.TLSModule.dll
+11/10/2025  11:43            26.648 UnityEngine.ContentLoadModule.dll
+11/10/2025  11:43            29.208 UnityEngine.DSPGraphModule.dll
+11/10/2025  11:43            29.696 System.Data.DataSetExtensions.dll
+11/10/2025  11:43            29.776 ChineseConverter.dll
+11/10/2025  11:43            31.256 UnityEngine.UnityWebRequestWWWModule.dll
+11/10/2025  11:43            32.768 Unity.VisualScripting.State.dll
+11/10/2025  11:43            32.792 UnityEngine.AssetBundleModule.dll
+11/10/2025  11:43            32.792 UnityEngine.SharedInternalsModule.dll
+11/10/2025  11:43            33.816 UnityEngine.NVIDIAModule.dll
+11/10/2025  11:43            34.304 Unity.2D.Tilemap.Extras.dll
+11/10/2025  11:43            34.840 UnityEngine.SubsystemsModule.dll
+11/10/2025  11:43            35.328 System.Transactions.dll
+11/10/2025  11:43            35.352 UnityEngine.VirtualTexturingModule.dll
+11/10/2025  11:43            36.376 UnityEngine.UIModule.dll
+11/10/2025  11:43            38.400 Unity.Services.RemoteConfig.dll
+11/10/2025  11:43            38.936 UnityEngine.TextRenderingModule.dll
+11/10/2025  11:43            38.936 UnityEngine.InputLegacyModule.dll
+11/10/2025  11:43            39.424 Coffee.UIParticle.dll
+11/10/2025  11:43            39.960 UnityEngine.GameCenterModule.dll
+11/10/2025  11:43            40.984 UnityEngine.VideoModule.dll
+11/10/2025  11:43            44.032 UIEffect.dll
+11/10/2025  11:43            44.544 Unity.2D.Common.Runtime.dll
+11/10/2025  11:43            44.544 System.EnterpriseServices.dll
+11/10/2025  11:43            44.568 UnityEngine.UnityAnalyticsModule.dll
+11/10/2025  11:43            46.616 UnityEngine.TilemapModule.dll
+11/10/2025  11:43            57.880 UnityEngine.AIModule.dll
+11/10/2025  11:43            57.880 UnityEngine.UnityWebRequestModule.dll
+11/10/2025  11:43            58.392 UnityEngine.VFXModule.dll
+11/10/2025  11:43            70.656 Unity.2D.Animation.Runtime.dll
+11/10/2025  11:43            70.680 UnityEngine.AudioModule.dll
+11/10/2025  11:43            70.680 UnityEngine.XRModule.dll
+11/10/2025  11:43            71.168 ParticleImage.dll
+11/10/2025  11:43            72.192 Unity.Services.Core.Internal.dll
+11/10/2025  11:43            72.216 UnityEngine.TextCoreFontEngineModule.dll
+11/10/2025  11:43            76.288 Unity.Services.Analytics.dll
+11/10/2025  11:43            86.016 Unity.VisualScripting.Antlr3.Runtime.dll
+11/10/2025  11:43            90.112 netstandard.dll
+11/10/2025  11:43            92.696 UnityEngine.AndroidJNIModule.dll
+11/10/2025  11:43           100.888 UnityEngine.TerrainModule.dll
+11/10/2025  11:43           105.472 Sirenix.OdinInspector.Attributes.dll
+11/10/2025  11:43           105.472 Unity.2D.SpriteShape.Runtime.dll
+11/10/2025  11:43           112.128 Unity.Addressables.dll
+11/10/2025  11:43           113.664 spine-unity-examples.dll
+11/10/2025  11:43           114.688 System.IO.Compression.dll
+11/10/2025  11:43           115.712 Unity.Services.Authentication.dll
+11/10/2025  11:43           119.296 System.Numerics.dll
+11/10/2025  11:43           121.344 System.Net.Http.dll
+11/10/2025  11:43           124.928 System.Configuration.dll
+11/10/2025  11:43           125.464 UnityEngine.dll
+11/10/2025  11:43           128.000 Unity.Timeline.dll
+11/10/2025  11:43           131.584 Unity.ResourceManager.dll
+11/10/2025  11:43           136.704 System.Xml.Linq.dll
+11/10/2025  11:43           138.264 UnityEngine.PhysicsModule.dll
+11/10/2025  11:43           141.336 UnityEngine.Physics2DModule.dll
+11/10/2025  11:43           151.576 UnityEngine.PropertiesModule.dll
+11/10/2025  11:43           156.184 UnityEngine.ParticleSystemModule.dll
+11/10/2025  11:43           158.720 Sirenix.Utilities.dll
+11/10/2025  11:43           163.864 UnityEngine.AnimationModule.dll
+11/10/2025  11:43           175.616 DOTween.dll
+11/10/2025  11:43           188.416 Live2D.Cubism.dll
+11/10/2025  11:43           189.464 UnityEngine.IMGUIModule.dll
+11/10/2025  11:43           215.040 System.ServiceModel.Internals.dll
+11/10/2025  11:43           241.152 Mono.Security.dll
+11/10/2025  11:43           249.880 UnityEngine.TextCoreTextEngineModule.dll
+11/10/2025  11:43           257.024 System.ComponentModel.Composition.dll
+11/10/2025  11:43           265.216 UnityEngine.UI.dll
+11/10/2025  11:43           316.416 Unity.Burst.dll
+11/10/2025  11:43           320.000 System.Security.dll
+11/10/2025  11:43           330.752 spine-unity.dll
+11/10/2025  11:43           358.912 UnityUIExtensions.dll
+11/10/2025  11:43           364.544 Unity.Collections.dll
+11/10/2025  11:43           365.056 Sirenix.Serialization.dll
+11/10/2025  11:43           380.928 Unity.TextMeshPro.dll
+11/10/2025  11:43           401.408 Unity.VisualScripting.Flow.dll
+11/10/2025  11:43           406.016 com.rlabrecque.steamworks.net.dll
+11/10/2025  11:43           489.984 System.Drawing.dll
+11/10/2025  11:43           522.752 Unity.RenderPipelines.Core.Runtime.dll
+11/10/2025  11:43           624.128 Unity.VisualScripting.Core.dll
+11/10/2025  11:43           691.712 Newtonsoft.Json.dll
+11/10/2025  11:43           741.376 Unity.Mathematics.dll
+11/10/2025  11:43           742.912 Unity.RenderPipelines.Universal.Runtime.dll
+11/10/2025  11:43           934.400 System.Runtime.Serialization.dll
+11/10/2025  11:43         1.113.088 System.Core.dll
+11/10/2025  11:43         1.371.672 UnityEngine.CoreModule.dll
+11/10/2025  11:43         1.513.496 UnityEngine.UIElementsModule.dll
+11/10/2025  11:43         2.118.656 System.Data.dll
+11/10/2025  11:43         2.528.256 Assembly-CSharp.dll
+11/10/2025  11:43         2.637.824 System.dll
+11/10/2025  11:43         3.160.064 System.Xml.dll
+11/10/2025  11:43         4.631.552 mscorlib.dll
+             156 File(s)     34.382.000 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\Plugins
+
+11/10/2025  11:44    <DIR>          ..
+11/10/2025  11:45    <DIR>          x86_64
+11/10/2025  11:44    <DIR>          .
+18/07/2025  19:22               239 Steamworks.NET.txt
+               1 File(s)            239 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\Plugins\x86_64
+
+11/10/2025  11:44    <DIR>          ..
+20/07/2025  08:37    <DIR>          steam_settings
+11/10/2025  11:45    <DIR>          .
+20/07/2025  08:37                 6 steam_appid.txt
+18/07/2025  19:22           239.240 Live2DCubismCore.dll
+19/07/2025  10:02           281.088 lib_burst_generated.dll
+18/07/2025  19:22           298.856 steam_api64_o.dll
+09/05/2023  01:20         1.958.912 steam_api64.dll
+               5 File(s)      2.778.102 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\Plugins\x86_64\steam_settings
+
+11/10/2025  11:45    <DIR>          ..
+20/07/2025  08:37    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\Resources
+
+11/10/2025  11:44    <DIR>          ..
+11/10/2025  11:44    <DIR>          .
+11/10/2025  11:43           380.428 unity_builtin_extra
+11/10/2025  11:43         1.548.352 unity default resources
+               2 File(s)      1.928.780 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets
+
+11/10/2025  11:44    <DIR>          ..
+11/10/2025  11:44    <DIR>          aa
+11/10/2025  11:44    <DIR>          .
+11/10/2025  11:44             1.797 UnityServicesProjectConfiguration.json
+               1 File(s)          1.797 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa
+
+11/10/2025  11:44    <DIR>          ..
+11/10/2025  11:44    <DIR>          AddressablesLink
+11/10/2025  11:45    <DIR>          StandaloneWindows64
+11/10/2025  11:44    <DIR>          .
+11/10/2025  11:44             1.605 settings.json
+11/10/2025  11:43         1.365.532 catalog.json
+               2 File(s)      1.367.137 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\AddressablesLink
+
+11/10/2025  11:44    <DIR>          ..
+11/10/2025  11:44    <DIR>          .
+11/10/2025  11:43            40.268 link.xml
+               1 File(s)         40.268 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64
+
+11/10/2025  11:44    <DIR>          ..
+11/10/2025  11:44    <DIR>          base_assets_assets
+11/10/2025  11:45    <DIR>          r18_scenes_assets
+11/10/2025  11:45    <DIR>          r18_assets_assets
+11/10/2025  11:45    <DIR>          .
+11/10/2025  11:44            36.897 bd0c0f7e0217e1f32684874d3defbc7d_unitybuiltinshaders.bundle
+               1 File(s)         36.897 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\base_assets_assets
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:44    <DIR>          d2
+11/10/2025  11:44    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\base_assets_assets\d2
+
+11/10/2025  11:44    <DIR>          ..
+11/10/2025  11:44    <DIR>          bundle
+11/10/2025  11:44    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\base_assets_assets\d2\bundle
+
+11/10/2025  11:44    <DIR>          ..
+11/10/2025  11:44    <DIR>          base
+11/10/2025  11:44    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\base_assets_assets\d2\bundle\base
+
+11/10/2025  11:44    <DIR>          ..
+11/10/2025  11:44    <DIR>          conversation
+11/10/2025  11:45    <DIR>          prefab
+11/10/2025  11:44    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\base_assets_assets\d2\bundle\base\conversation
+
+11/10/2025  11:44    <DIR>          ..
+11/10/2025  11:44    <DIR>          graphs
+11/10/2025  11:44    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\base_assets_assets\d2\bundle\base\conversation\graphs
+
+11/10/2025  11:44    <DIR>          ..
+11/10/2025  11:44    <DIR>          .
+11/10/2025  11:44             6.774 textinggirl1_1bgraph.asset.bundle
+11/10/2025  11:44             6.805 textinggirl1_2graph.asset.bundle
+11/10/2025  11:44             7.918 textinggirl2_1graph.asset.bundle
+11/10/2025  11:44             8.080 textinggirl3_1graph.asset.bundle
+11/10/2025  11:44             8.403 textinggirl1_5graph.asset.bundle
+11/10/2025  11:44             8.783 textinggirl1_3graph.asset.bundle
+11/10/2025  11:44             8.969 textinggirl1_1graph.asset.bundle
+11/10/2025  11:44             9.881 textinggirl1_4graph.asset.bundle
+11/10/2025  11:43            10.123 phonegirl1_1graph.asset.bundle
+11/10/2025  11:44            12.459 textinggirl1_1cgraph.asset.bundle
+11/10/2025  11:43           990.962 mainevent12_2graph.asset.bundle
+11/10/2025  11:43         1.279.722 girlaevent9graph.asset.bundle
+11/10/2025  11:43         1.812.632 mainevent44_2graph.asset.bundle
+11/10/2025  11:43         2.480.420 mainevent24graph.asset.bundle
+11/10/2025  11:43         2.713.903 mainevent39_12graph.asset.bundle
+11/10/2025  11:43         3.184.037 mainevent36_2graph.asset.bundle
+11/10/2025  11:43         3.692.955 hscenemmb6_startgraph.asset.bundle
+11/10/2025  11:43         4.091.013 girlaevent1_2graph.asset.bundle
+11/10/2025  11:43         4.623.079 hscenemmc7_endgraph.asset.bundle
+11/10/2025  11:43         5.026.961 subgirl1mm1graph.asset.bundle
+11/10/2025  11:43         5.329.606 s02_t08_nothinggraph.asset.bundle
+11/10/2025  11:43         5.531.304 s02_t10_lose1graph.asset.bundle
+11/10/2025  11:43         5.568.186 s02_t10_nothinggraph.asset.bundle
+11/10/2025  11:43         5.568.486 s02_t09_lose1graph.asset.bundle
+11/10/2025  11:43         5.568.793 s02_t05_lose1graph.asset.bundle
+11/10/2025  11:43         5.568.888 s02_t02_lose1graph.asset.bundle
+11/10/2025  11:43         5.569.080 mainevent18graph.asset.bundle
+11/10/2025  11:43         5.569.873 s02_t08_win1graph.asset.bundle
+11/10/2025  11:43         5.591.079 s02_t04_nothinggraph.asset.bundle
+11/10/2025  11:43         5.673.311 s02_t01_lose1graph.asset.bundle
+11/10/2025  11:43         5.673.555 s02_t01_nothinggraph.asset.bundle
+11/10/2025  11:43         5.674.872 s02_t02_nothinggraph.asset.bundle
+11/10/2025  11:43         5.716.191 s02_t05_win1graph.asset.bundle
+11/10/2025  11:43         5.803.776 s02_t04_lose1graph.asset.bundle
+11/10/2025  11:43         5.803.952 s02_t09_nothinggraph.asset.bundle
+11/10/2025  11:43         5.804.166 s02_t02_win1graph.asset.bundle
+11/10/2025  11:43         5.804.448 s02_t04_win1graph.asset.bundle
+11/10/2025  11:43         5.805.866 s02_t07_win1graph.asset.bundle
+11/10/2025  11:43         5.908.814 s02_t05_nothinggraph.asset.bundle
+11/10/2025  11:43         5.908.851 s02_t01_win1graph.asset.bundle
+11/10/2025  11:43         5.910.084 s02_t01_traitgraph.asset.bundle
+11/10/2025  11:43         5.910.545 s02_t02graph.asset.bundle
+11/10/2025  11:43         5.953.626 s02_t03_nothinggraph.asset.bundle
+11/10/2025  11:43         6.011.977 mainevent37_2graph.asset.bundle
+11/10/2025  11:43         6.039.335 s02_t08_lose1graph.asset.bundle
+11/10/2025  11:43         6.039.480 s02_t09_win1graph.asset.bundle
+11/10/2025  11:43         6.039.525 s02_t05_traitgraph.asset.bundle
+11/10/2025  11:43         6.039.755 mainevent14graph.asset.bundle
+11/10/2025  11:43         6.040.271 s02_t03graph.asset.bundle
+11/10/2025  11:43         6.061.025 s02_t10graph.asset.bundle
+11/10/2025  11:43         6.095.766 s02_t09graph.asset.bundle
+11/10/2025  11:43         6.145.166 s02_t02_traitgraph.asset.bundle
+11/10/2025  11:43         6.145.435 s02_t04graph.asset.bundle
+11/10/2025  11:43         6.187.614 s02_t05graph.asset.bundle
+11/10/2025  11:43         6.191.539 s02_t06_lose1graph.asset.bundle
+11/10/2025  11:43         6.198.113 mainevent69_2graph.asset.bundle
+11/10/2025  11:43         6.237.802 s02_t08graph.asset.bundle
+11/10/2025  11:43         6.250.070 s02_t07_nothinggraph.asset.bundle
+11/10/2025  11:43         6.260.459 s02_t01graph.asset.bundle
+11/10/2025  11:43         6.283.304 mainevent69_1graph.asset.bundle
+11/10/2025  11:43         6.300.638 mainevent59_1graph.asset.bundle
+11/10/2025  11:43         6.308.445 mainevent76_2graph.asset.bundle
+11/10/2025  11:43         6.347.515 mainevent76_1graph.asset.bundle
+11/10/2025  11:43         6.351.164 s02_t07_lose1graph.asset.bundle
+11/10/2025  11:43         6.376.433 s02_t03_lose1graph.asset.bundle
+11/10/2025  11:43         6.467.120 mainevent87_3graph.asset.bundle
+11/10/2025  11:43         6.487.859 s02_t10_win1graph.asset.bundle
+11/10/2025  11:43         6.490.485 s02_t10_traitgraph.asset.bundle
+11/10/2025  11:43         6.492.174 mainevent39_1graph.asset.bundle
+11/10/2025  11:43         6.496.475 mainevent41graph.asset.bundle
+11/10/2025  11:43         6.525.406 mainevent16_8optgraph.asset.bundle
+11/10/2025  11:43         6.525.806 s02_t04_traitgraph.asset.bundle
+11/10/2025  11:43         6.565.226 girlcevent3graph.asset.bundle
+11/10/2025  11:43         6.602.598 s02_t03_win1graph.asset.bundle
+11/10/2025  11:43         6.604.030 s02_t03_traitgraph.asset.bundle
+11/10/2025  11:43         6.604.332 s02_t06_win1graph.asset.bundle
+11/10/2025  11:43         6.660.539 girlbevent21graph.asset.bundle
+11/10/2025  11:43         6.675.757 s02_t06_nothinggraph.asset.bundle
+11/10/2025  11:43         6.685.161 mainevent64_1graph.asset.bundle
+11/10/2025  11:43         6.718.745 mainevent40graph.asset.bundle
+11/10/2025  11:43         6.815.406 s02_t09_traitgraph.asset.bundle
+11/10/2025  11:43         6.857.697 mainevent64_2graph.asset.bundle
+11/10/2025  11:43         6.936.276 mainevent29graph.asset.bundle
+11/10/2025  11:43         6.951.401 mainevent12_1graph.asset.bundle
+11/10/2025  11:43         6.992.011 s02_t08_traitgraph.asset.bundle
+11/10/2025  11:43         7.011.321 girlbevent26_1graph.asset.bundle
+11/10/2025  11:43         7.145.659 s02_t06_traitgraph.asset.bundle
+11/10/2025  11:43         7.173.232 mainevent87_1graph.asset.bundle
+11/10/2025  11:43         7.213.996 s02_t06graph.asset.bundle
+11/10/2025  11:43         7.214.807 s02_t07graph.asset.bundle
+11/10/2025  11:43         7.297.314 mainevent30graph.asset.bundle
+11/10/2025  11:43         7.481.305 mainevent79_1graph.asset.bundle
+11/10/2025  11:43         7.582.518 mainevent22graph.asset.bundle
+11/10/2025  11:43         7.596.220 subgirl2event6_2graph.asset.bundle
+11/10/2025  11:43         7.630.740 mainevent70graph.asset.bundle
+11/10/2025  11:43         7.650.980 mainevent60_1graph.asset.bundle
+11/10/2025  11:43         7.691.851 girlcevent4graph.asset.bundle
+11/10/2025  11:43         7.697.720 girlcevent11graph.asset.bundle
+11/10/2025  11:43         7.826.559 mainevent15graph.asset.bundle
+11/10/2025  11:43         7.902.379 hscenec2_endgraph.asset.bundle
+11/10/2025  11:43         7.918.627 hscenec1_endgraph.asset.bundle
+11/10/2025  11:43         7.947.750 girlcevent23graph.asset.bundle
+11/10/2025  11:43         7.963.692 mainevent75graph.asset.bundle
+11/10/2025  11:43         7.975.513 s02_t07_traitgraph.asset.bundle
+11/10/2025  11:43         8.134.328 mainevent58_1graph.asset.bundle
+11/10/2025  11:43         8.164.757 hsceneweekendc5_endgraph.asset.bundle
+11/10/2025  11:43         8.165.537 mainevent9graph.asset.bundle
+11/10/2025  11:43         8.233.888 mainevent28graph.asset.bundle
+11/10/2025  11:43         8.241.575 mainevent94graph.asset.bundle
+11/10/2025  11:43         8.355.393 mainevent31graph.asset.bundle
+11/10/2025  11:43         8.542.217 mainevent13graph.asset.bundle
+11/10/2025  11:43         8.552.080 girlcmm1graph.asset.bundle
+11/10/2025  11:43         8.558.092 subgirl2event8graph.asset.bundle
+11/10/2025  11:43         8.562.450 girlaevent1_1graph.asset.bundle
+11/10/2025  11:43         8.616.040 mainevent67_1graph.asset.bundle
+11/10/2025  11:43         8.772.898 mainevent89_1graph.asset.bundle
+11/10/2025  11:43         8.890.319 mainevent73graph.asset.bundle
+11/10/2025  11:43         8.905.720 mainevent46graph.asset.bundle
+11/10/2025  11:43         8.922.117 mainevent88graph.asset.bundle
+11/10/2025  11:43         8.933.539 girlbevent26graph.asset.bundle
+11/10/2025  11:43         8.976.863 mainevent13_0graph.asset.bundle
+11/10/2025  11:43         9.016.712 mainevent7_1graph.asset.bundle
+11/10/2025  11:43         9.098.754 girlcevent24graph.asset.bundle
+11/10/2025  11:43         9.334.365 mainevent68_2graph.asset.bundle
+11/10/2025  11:43         9.352.054 mainevent60_2graph.asset.bundle
+11/10/2025  11:43         9.413.365 mainevent89_2graph.asset.bundle
+11/10/2025  11:43         9.444.366 girlbevent24_1graph.asset.bundle
+11/10/2025  11:43         9.457.286 girlbevent19graph.asset.bundle
+11/10/2025  11:43         9.503.865 girlaevent1_3graph.asset.bundle
+11/10/2025  11:43         9.508.471 mainevent87_2graph.asset.bundle
+11/10/2025  11:43         9.516.516 subgirl2event6_1graph.asset.bundle
+11/10/2025  11:43         9.520.916 hscenemmc6_endgraph.asset.bundle
+11/10/2025  11:43         9.529.705 subgirl3event6_1graph.asset.bundle
+11/10/2025  11:43         9.558.005 mainevent59_2graph.asset.bundle
+11/10/2025  11:43         9.585.859 girlcevent6_1graph.asset.bundle
+11/10/2025  11:43         9.649.701 hscenec1_startgraph.asset.bundle
+11/10/2025  11:43         9.665.395 mainevent82_1graph.asset.bundle
+11/10/2025  11:43         9.689.167 mainevent87_4graph.asset.bundle
+11/10/2025  11:43         9.731.833 mainevent61graph.asset.bundle
+11/10/2025  11:43         9.799.691 girlbevent22graph.asset.bundle
+11/10/2025  11:43         9.807.213 mainevent25graph.asset.bundle
+11/10/2025  11:43         9.841.503 mainevent39_2graph.asset.bundle
+11/10/2025  11:43         9.848.302 girlaevent12graph.asset.bundle
+11/10/2025  11:43         9.852.711 mainevent23graph.asset.bundle
+11/10/2025  11:43         9.873.567 girlcevent6_2graph.asset.bundle
+11/10/2025  11:43         9.895.190 girlbevent24_2graph.asset.bundle
+11/10/2025  11:43         9.915.949 mainevent84_1graph.asset.bundle
+11/10/2025  11:43        10.073.124 girlbevent1graph.asset.bundle
+11/10/2025  11:43        10.096.114 mainevent8_0graph.asset.bundle
+11/10/2025  11:43        10.139.859 girlbmm0graph.asset.bundle
+11/10/2025  11:43        10.252.269 mainevent67_2graph.asset.bundle
+11/10/2025  11:43        10.275.525 mainevent65_2graph.asset.bundle
+11/10/2025  11:43        10.319.757 mainevent78graph.asset.bundle
+11/10/2025  11:43        10.346.168 subgirl1event9_1graph.asset.bundle
+11/10/2025  11:43        10.366.056 subgirl2mm2graph.asset.bundle
+11/10/2025  11:43        10.423.479 mainevent11_4agraph.asset.bundle
+11/10/2025  11:43        10.441.559 mainevent56graph.asset.bundle
+11/10/2025  11:43        10.481.054 girlaevent20_1graph.asset.bundle
+11/10/2025  11:43        10.518.517 hsceneweekendc5_startgraph.asset.bundle
+11/10/2025  11:43        10.548.603 mainevent82_2graph.asset.bundle
+11/10/2025  11:43        10.562.554 hscenemmc6_startgraph.asset.bundle
+11/10/2025  11:43        10.685.842 girlcevent12graph.asset.bundle
+11/10/2025  11:43        10.699.732 girlamm2graph.asset.bundle
+11/10/2025  11:43        10.707.328 hscenea10_endgraph.asset.bundle
+11/10/2025  11:43        10.720.936 subgirl1event9_2graph.asset.bundle
+11/10/2025  11:43        10.766.402 mainevent16graph.asset.bundle
+11/10/2025  11:43        10.986.512 mainevent21graph.asset.bundle
+11/10/2025  11:43        10.988.218 mainevent36graph.asset.bundle
+11/10/2025  11:43        11.014.452 hscenea3_startgraph.asset.bundle
+11/10/2025  11:43        11.022.857 girlaevent9_1graph.asset.bundle
+11/10/2025  11:43        11.085.508 mainevent83graph.asset.bundle
+11/10/2025  11:43        11.087.134 girlcevent5graph.asset.bundle
+11/10/2025  11:43        11.093.655 girlcevent25graph.asset.bundle
+11/10/2025  11:43        11.153.814 girlbevent7_2graph.asset.bundle
+11/10/2025  11:43        11.163.300 subgirl2event4_2graph.asset.bundle
+11/10/2025  11:43        11.170.419 mainevent93_1graph.asset.bundle
+11/10/2025  11:43        11.318.843 hscenemma1_endgraph.asset.bundle
+11/10/2025  11:43        11.444.464 subgirl3event6_2graph.asset.bundle
+11/10/2025  11:43        11.451.556 girlaevent20graph.asset.bundle
+11/10/2025  11:43        11.578.765 hscenea7weekend2_endgraph.asset.bundle
+11/10/2025  11:43        11.641.171 girlbevent14graph.asset.bundle
+11/10/2025  11:43        11.695.686 girlaevent19graph.asset.bundle
+11/10/2025  11:43        11.717.601 mainevent48graph.asset.bundle
+11/10/2025  11:43        11.800.870 girlaevent12_1graph.asset.bundle
+11/10/2025  11:43        11.877.605 hsceneweekendb4_endgraph.asset.bundle
+11/10/2025  11:43        12.027.319 girl1_chat2graph.asset.bundle
+11/10/2025  11:43        12.027.322 girl1_chat3graph.asset.bundle
+11/10/2025  11:43        12.027.668 girl1_chat1graph.asset.bundle
+11/10/2025  11:43        12.035.791 mainevent3graph.asset.bundle
+11/10/2025  11:43        12.078.554 mainevent7_2graph.asset.bundle
+11/10/2025  11:43        12.097.887 mainevent86_1graph.asset.bundle
+11/10/2025  11:43        12.117.911 mainevent80graph.asset.bundle
+11/10/2025  11:43        12.156.501 mainevent96graph.asset.bundle
+11/10/2025  11:43        12.184.913 hscenea5_endgraph.asset.bundle
+11/10/2025  11:43        12.378.282 hscenec3_endgraph.asset.bundle
+11/10/2025  11:43        12.407.190 girlbevent8_2graph.asset.bundle
+11/10/2025  11:43        12.438.848 mainevent6_0graph.asset.bundle
+11/10/2025  11:43        12.490.528 mainevent90graph.asset.bundle
+11/10/2025  11:43        12.514.198 s03_t07_nothinggraph.asset.bundle
+11/10/2025  11:43        12.514.259 subgirl2mm1graph.asset.bundle
+11/10/2025  11:43        12.525.774 girlbevent27_2graph.asset.bundle
+11/10/2025  11:43        12.578.519 subgirl2event4_1graph.asset.bundle
+11/10/2025  11:43        12.627.290 mainevent53_2graph.asset.bundle
+11/10/2025  11:43        12.673.652 mainevent0graph.asset.bundle
+11/10/2025  11:43        12.684.573 s04_t02_win1graph.asset.bundle
+11/10/2025  11:43        12.684.789 s04_t05_win1graph.asset.bundle
+11/10/2025  11:43        12.685.868 s04_t05_traitgraph.asset.bundle
+11/10/2025  11:43        12.715.822 s04_t07_nothinggraph.asset.bundle
+11/10/2025  11:43        12.723.172 s03_t02_nothinggraph.asset.bundle
+11/10/2025  11:43        12.723.202 s03_t03graph.asset.bundle
+11/10/2025  11:43        12.723.405 s03_t09_traitgraph.asset.bundle
+11/10/2025  11:43        12.723.466 s03_t07_traitgraph.asset.bundle
+11/10/2025  11:43        12.723.616 s03_t02_win1graph.asset.bundle
+11/10/2025  11:43        12.731.086 s03_t09_lose1graph.asset.bundle
+11/10/2025  11:43        12.731.271 s03_t06_lose1graph.asset.bundle
+11/10/2025  11:43        12.753.917 s01_t05_nothinggraph.asset.bundle
+11/10/2025  11:43        12.754.025 s01_t06_nothinggraph.asset.bundle
+11/10/2025  11:43        12.754.208 s01_t04_lose1graph.asset.bundle
+11/10/2025  11:43        12.754.243 s01_t02_win1graph.asset.bundle
+11/10/2025  11:43        12.754.251 s04_t02_nothinggraph.asset.bundle
+11/10/2025  11:43        12.754.261 s01_t01_traitgraph.asset.bundle
+11/10/2025  11:43        12.754.261 s04_t01_lose1graph.asset.bundle
+11/10/2025  11:43        12.754.266 s01_t04_nothinggraph.asset.bundle
+11/10/2025  11:43        12.754.302 s04_t02_lose1graph.asset.bundle
+11/10/2025  11:43        12.754.306 s01_t06_win1graph.asset.bundle
+11/10/2025  11:43        12.754.314 s04_t03_lose1graph.asset.bundle
+11/10/2025  11:43        12.754.316 s04_t03_win1graph.asset.bundle
+11/10/2025  11:43        12.754.327 s01_t06_lose1graph.asset.bundle
+11/10/2025  11:43        12.754.352 s04_t03_nothinggraph.asset.bundle
+11/10/2025  11:43        12.754.358 s01_t05_lose1graph.asset.bundle
+11/10/2025  11:43        12.754.365 s01_t04_win1graph.asset.bundle
+11/10/2025  11:43        12.754.398 s04_t05_nothinggraph.asset.bundle
+11/10/2025  11:43        12.754.399 s01_t04_traitgraph.asset.bundle
+11/10/2025  11:43        12.754.403 s04_t04_lose1graph.asset.bundle
+11/10/2025  11:43        12.754.407 s01_t09_lose1graph.asset.bundle
+11/10/2025  11:43        12.754.417 s01_t02_lose1graph.asset.bundle
+11/10/2025  11:43        12.754.426 s01_t08_lose1graph.asset.bundle
+11/10/2025  11:43        12.754.478 s01_t01_win1graph.asset.bundle
+11/10/2025  11:43        12.754.481 s01_t01_nothinggraph.asset.bundle
+11/10/2025  11:43        12.754.491 s01_t02_nothinggraph.asset.bundle
+11/10/2025  11:43        12.754.511 s01_t05_traitgraph.asset.bundle
+11/10/2025  11:43        12.754.517 s04_t01_win1graph.asset.bundle
+11/10/2025  11:43        12.754.533 s01_t01_lose1graph.asset.bundle
+11/10/2025  11:43        12.754.561 s04_t04_nothinggraph.asset.bundle
+11/10/2025  11:43        12.754.576 s04_t01_nothinggraph.asset.bundle
+11/10/2025  11:43        12.754.656 s01_t05_win1graph.asset.bundle
+11/10/2025  11:43        12.754.674 s01_t06_traitgraph.asset.bundle
+11/10/2025  11:43        12.755.024 s04_t02_traitgraph.asset.bundle
+11/10/2025  11:43        12.755.131 s04_t01_traitgraph.asset.bundle
+11/10/2025  11:43        12.755.587 s04_t04_traitgraph.asset.bundle
+11/10/2025  11:43        12.755.769 s04_t03_traitgraph.asset.bundle
+11/10/2025  11:43        12.756.281 s01_t02graph.asset.bundle
+11/10/2025  11:43        12.756.701 s04_t01graph.asset.bundle
+11/10/2025  11:43        12.757.172 s04_t04graph.asset.bundle
+11/10/2025  11:43        12.789.787 girlaevent9_3graph.asset.bundle
+11/10/2025  11:43        12.837.155 s03_t04_nothinggraph.asset.bundle
+11/10/2025  11:43        12.837.296 s03_t07_lose1graph.asset.bundle
+11/10/2025  11:43        12.839.872 s03_t10_lose1graph.asset.bundle
+11/10/2025  11:43        12.864.957 s03_t03_nothinggraph.asset.bundle
+11/10/2025  11:43        12.865.121 s03_t03_lose1graph.asset.bundle
+11/10/2025  11:43        12.871.837 s01_t04graph.asset.bundle
+11/10/2025  11:43        12.871.984 s01_t05graph.asset.bundle
+11/10/2025  11:43        12.872.065 s01_t06graph.asset.bundle
+11/10/2025  11:43        12.888.168 s01_t09_nothinggraph.asset.bundle
+11/10/2025  11:43        12.889.082 s01_t09_traitgraph.asset.bundle
+11/10/2025  11:43        12.925.603 s04_t03graph.asset.bundle
+11/10/2025  11:43        12.925.768 s04_t02graph.asset.bundle
+11/10/2025  11:43        12.941.694 mainevent51graph.asset.bundle
+11/10/2025  11:43        12.954.810 s04_t07_lose1graph.asset.bundle
+11/10/2025  11:43        12.957.449 s04_t07graph.asset.bundle
+11/10/2025  11:43        12.967.673 girlbevent16graph.asset.bundle
+11/10/2025  11:43        12.981.082 s03_t05_lose1graph.asset.bundle
+11/10/2025  11:43        12.988.847 s01_t09_win1graph.asset.bundle
+11/10/2025  11:43        12.989.140 s01_t10_win1graph.asset.bundle
+11/10/2025  11:43        12.990.028 s04_t04_win1graph.asset.bundle
+11/10/2025  11:43        12.998.498 mainevent53_1graph.asset.bundle
+11/10/2025  11:43        13.037.603 s03_t02_traitgraph.asset.bundle
+11/10/2025  11:43        13.037.891 s03_t06_win1graph.asset.bundle
+11/10/2025  11:43        13.041.373 s03_t04_traitgraph.asset.bundle
+11/10/2025  11:43        13.044.398 s03_t06_nothinggraph.asset.bundle
+11/10/2025  11:43        13.047.660 s04_t06_win1graph.asset.bundle
+11/10/2025  11:43        13.047.683 s04_t10_lose1graph.asset.bundle
+11/10/2025  11:43        13.074.095 s03_t01_nothinggraph.asset.bundle
+11/10/2025  11:43        13.074.136 s03_t03_win1graph.asset.bundle
+11/10/2025  11:43        13.074.409 s03_t03_traitgraph.asset.bundle
+11/10/2025  11:43        13.083.632 subgirl1event3graph.asset.bundle
+11/10/2025  11:43        13.083.678 subgirl1event2graph.asset.bundle
+11/10/2025  11:43        13.085.110 s03_t05_nothinggraph.asset.bundle
+11/10/2025  11:43        13.104.068 s01_t03_lose1graph.asset.bundle
+11/10/2025  11:43        13.109.236 s04_t10_win1graph.asset.bundle
+11/10/2025  11:43        13.110.599 subgirl2event3graph.asset.bundle
+11/10/2025  11:43        13.126.409 s01_t08_nothinggraph.asset.bundle
+11/10/2025  11:43        13.127.543 s01_t10_lose1graph.asset.bundle
+11/10/2025  11:43        13.128.939 s01_t09graph.asset.bundle
+11/10/2025  11:43        13.128.944 s01_t08graph.asset.bundle
+11/10/2025  11:43        13.135.952 girlbevent27_1graph.asset.bundle
+11/10/2025  11:43        13.137.606 s03_t04_lose1graph.asset.bundle
+11/10/2025  11:43        13.137.982 s03_t04_win1graph.asset.bundle
+11/10/2025  11:43        13.158.701 s04_t05_lose1graph.asset.bundle
+11/10/2025  11:43        13.167.465 mainevent42graph.asset.bundle
+11/10/2025  11:43        13.176.184 hscenemmsubgirl1_1_endgraph.asset.bundle
+11/10/2025  11:43        13.201.274 s04_t09_traitgraph.asset.bundle
+11/10/2025  11:43        13.212.653 s01_t07_nothinggraph.asset.bundle
+11/10/2025  11:43        13.214.420 s01_t07_win1graph.asset.bundle
+11/10/2025  11:43        13.219.708 s03_t07_win1graph.asset.bundle
+11/10/2025  11:43        13.238.058 mainevent44_1graph.asset.bundle
+11/10/2025  11:43        13.244.754 s04_t06_nothinggraph.asset.bundle
+11/10/2025  11:43        13.245.449 s04_t06_lose1graph.asset.bundle
+11/10/2025  11:43        13.276.110 hscenec2_startgraph.asset.bundle
+11/10/2025  11:43        13.305.449 subgirl1event7_2graph.asset.bundle
+11/10/2025  11:43        13.310.253 s04_t06_traitgraph.asset.bundle
+11/10/2025  11:43        13.316.387 s03_t06_traitgraph.asset.bundle
+11/10/2025  11:43        13.339.958 s01_t03_nothinggraph.asset.bundle
+11/10/2025  11:43        13.343.646 s04_t08_nothinggraph.asset.bundle
+11/10/2025  11:43        13.343.729 s04_t10_nothinggraph.asset.bundle
+11/10/2025  11:43        13.343.804 s04_t08_lose1graph.asset.bundle
+11/10/2025  11:43        13.343.870 s04_t09_nothinggraph.asset.bundle
+11/10/2025  11:43        13.343.992 s04_t09_lose1graph.asset.bundle
+11/10/2025  11:43        13.346.656 s03_t02_lose1graph.asset.bundle
+11/10/2025  11:43        13.348.118 s03_t02graph.asset.bundle
+11/10/2025  11:43        13.357.707 hscenemmsubgirl1_1_startgraph.asset.bundle
+11/10/2025  11:43        13.362.855 s01_t10_traitgraph.asset.bundle
+11/10/2025  11:43        13.389.485 s01_t10_nothinggraph.asset.bundle
+11/10/2025  11:43        13.423.029 s03_t08_traitgraph.asset.bundle
+11/10/2025  11:43        13.423.561 s03_t01graph.asset.bundle
+11/10/2025  11:43        13.426.581 hscenea1_startgraph.asset.bundle
+11/10/2025  11:43        13.429.469 s03_t09_win1graph.asset.bundle
+11/10/2025  11:43        13.435.752 hscenea6weekend1_startgraph.asset.bundle
+11/10/2025  11:43        13.439.558 s04_t07_win1graph.asset.bundle
+11/10/2025  11:43        13.439.640 s04_t07_traitgraph.asset.bundle
+11/10/2025  11:43        13.454.998 s01_t07graph.asset.bundle
+11/10/2025  11:43        13.474.364 s01_t08_win1graph.asset.bundle
+11/10/2025  11:43        13.474.543 s01_t08_traitgraph.asset.bundle
+11/10/2025  11:43        13.474.844 s01_t02_traitgraph.asset.bundle
+11/10/2025  11:43        13.490.404 girlbevent10graph.asset.bundle
+11/10/2025  11:43        13.525.973 girlaevent9_4graph.asset.bundle
+11/10/2025  11:43        13.526.946 s03_t05_win1graph.asset.bundle
+11/10/2025  11:43        13.533.076 s03_t10_traitgraph.asset.bundle
+11/10/2025  11:43        13.534.370 subgirl2event2graph.asset.bundle
+11/10/2025  11:43        13.541.876 s04_t09_win1graph.asset.bundle
+11/10/2025  11:43        13.569.718 s03_t08_nothinggraph.asset.bundle
+11/10/2025  11:43        13.571.047 s03_t08_win1graph.asset.bundle
+11/10/2025  11:43        13.571.223 s03_t08_lose1graph.asset.bundle
+11/10/2025  11:43        13.591.611 s01_t03_traitgraph.asset.bundle
+11/10/2025  11:43        13.600.901 s01_t07_lose1graph.asset.bundle
+11/10/2025  11:43        13.601.639 s01_t03_win1graph.asset.bundle
+11/10/2025  11:43        13.622.618 hscenesuba4_endgraph.asset.bundle
+11/10/2025  11:43        13.632.339 s03_t10_nothinggraph.asset.bundle
+11/10/2025  11:43        13.666.226 girlamm3graph.asset.bundle
+11/10/2025  11:43        13.670.277 girlaevent8graph.asset.bundle
+11/10/2025  11:43        13.672.631 girlcevent19_1graph.asset.bundle
+11/10/2025  11:43        13.675.637 s03_t05_traitgraph.asset.bundle
+11/10/2025  11:43        13.678.447 hscenea3_endgraph.asset.bundle
+11/10/2025  11:43        13.684.990 mainevent34graph.asset.bundle
+11/10/2025  11:43        13.700.737 girlcevent27_2graph.asset.bundle
+11/10/2025  11:43        13.717.481 girlaevent1graph.asset.bundle
+11/10/2025  11:43        13.798.128 s04_t06graph.asset.bundle
+11/10/2025  11:43        13.802.261 s01_t03graph.asset.bundle
+11/10/2025  11:43        13.826.958 s01_t07_traitgraph.asset.bundle
+11/10/2025  11:43        13.828.405 s04_t08_win1graph.asset.bundle
+11/10/2025  11:43        13.859.441 hsceneb1_startgraph.asset.bundle
+11/10/2025  11:43        13.863.234 subgirl2event9_2graph.asset.bundle
+11/10/2025  11:43        13.882.954 hscenemmsubgirl2_1_endgraph.asset.bundle
+11/10/2025  11:43        13.884.779 mainevent50_2graph.asset.bundle
+11/10/2025  11:43        13.905.452 s04_t05graph.asset.bundle
+11/10/2025  11:43        13.910.131 mainevent17graph.asset.bundle
+11/10/2025  11:43        13.916.339 s03_t01_win1graph.asset.bundle
+11/10/2025  11:43        13.916.429 s03_t01_lose1graph.asset.bundle
+11/10/2025  11:43        13.916.897 s01_t01graph.asset.bundle
+11/10/2025  11:43        13.952.505 hscenea1_endgraph.asset.bundle
+11/10/2025  11:43        13.962.489 mainevent2graph.asset.bundle
+11/10/2025  11:43        13.982.932 s04_t09graph.asset.bundle
+11/10/2025  11:43        13.987.912 s04_t10_traitgraph.asset.bundle
+11/10/2025  11:43        14.105.291 s01_t10graph.asset.bundle
+11/10/2025  11:43        14.124.905 s04_t08_traitgraph.asset.bundle
+11/10/2025  11:43        14.128.705 hscenemmsubgirl3_1_endgraph.asset.bundle
+11/10/2025  11:43        14.135.439 girlbevent7_1graph.asset.bundle
+11/10/2025  11:43        14.140.095 girlaevent11_2graph.asset.bundle
+11/10/2025  11:43        14.168.210 s03_t09_nothinggraph.asset.bundle
+11/10/2025  11:43        14.210.817 girlcevent9_2graph.asset.bundle
+11/10/2025  11:43        14.222.880 girlcevent19_2graph.asset.bundle
+11/10/2025  11:43        14.234.513 mainevent79_2graph.asset.bundle
+11/10/2025  11:43        14.246.797 girlbevent8_1graph.asset.bundle
+11/10/2025  11:43        14.256.124 mainevent91_1graph.asset.bundle
+11/10/2025  11:43        14.259.584 s04_t10graph.asset.bundle
+11/10/2025  11:43        14.264.060 s03_t01_traitgraph.asset.bundle
+11/10/2025  11:43        14.271.827 s04_t08graph.asset.bundle
+11/10/2025  11:43        14.283.381 mainevent10_3graph.asset.bundle
+11/10/2025  11:43        14.318.502 s03_t10graph.asset.bundle
+11/10/2025  11:43        14.372.399 girlaevent6graph.asset.bundle
+11/10/2025  11:43        14.385.025 subgirl1event4graph.asset.bundle
+11/10/2025  11:43        14.428.953 mainevent10_2graph.asset.bundle
+11/10/2025  11:43        14.436.215 girlcmm5graph.asset.bundle
+11/10/2025  11:43        14.451.997 s03_t04graph.asset.bundle
+11/10/2025  11:43        14.592.483 girlcevent1_1graph.asset.bundle
+11/10/2025  11:43        14.593.923 subgirl1event6graph.asset.bundle
+11/10/2025  11:43        14.596.704 subgirl1mm3graph.asset.bundle
+11/10/2025  11:43        14.603.843 girlbevent12graph.asset.bundle
+11/10/2025  11:43        14.608.411 girlcevent14_1graph.asset.bundle
+11/10/2025  11:43        14.629.005 mainevent62_1graph.asset.bundle
+11/10/2025  11:43        14.660.405 girlbevent25graph.asset.bundle
+11/10/2025  11:43        14.669.695 subgirl3event4_1graph.asset.bundle
+11/10/2025  11:43        14.701.130 hscenemmsubgirl3_1_startgraph.asset.bundle
+11/10/2025  11:43        14.705.669 mainevent37_3graph.asset.bundle
+11/10/2025  11:43        14.753.479 s03_t05graph.asset.bundle
+11/10/2025  11:43        14.761.742 girlcmm3graph.asset.bundle
+11/10/2025  11:43        14.776.297 subgirl3event4_2graph.asset.bundle
+11/10/2025  11:43        14.781.208 subgirl3event1_2graph.asset.bundle
+11/10/2025  11:43        14.885.005 girlcevent27_1graph.asset.bundle
+11/10/2025  11:43        14.904.495 girlbevent11graph.asset.bundle
+11/10/2025  11:43        14.925.871 s03_t10_win1graph.asset.bundle
+11/10/2025  11:43        14.935.836 girlcevent1_2graph.asset.bundle
+11/10/2025  11:43        14.953.993 s03_t06graph.asset.bundle
+11/10/2025  11:43        14.961.848 hscenemmsubgirl2_1_startgraph.asset.bundle
+11/10/2025  11:43        14.978.846 subgirl1mm2graph.asset.bundle
+11/10/2025  11:43        15.022.150 mainevent11_2graph.asset.bundle
+11/10/2025  11:43        15.061.136 mainevent92graph.asset.bundle
+11/10/2025  11:43        15.064.625 mainevent91_2graph.asset.bundle
+11/10/2025  11:43        15.070.315 girlbevent1_1graph.asset.bundle
+11/10/2025  11:43        15.129.497 mainevent55_2graph.asset.bundle
+11/10/2025  11:43        15.173.685 mainevent52_1graph.asset.bundle
+11/10/2025  11:43        15.230.200 subgirl2event1_2graph.asset.bundle
+11/10/2025  11:43        15.233.275 girlaevent10graph.asset.bundle
+11/10/2025  11:43        15.245.805 subgirl2event1_1graph.asset.bundle
+11/10/2025  11:43        15.277.313 s03_t09graph.asset.bundle
+11/10/2025  11:43        15.286.350 girlaevent16graph.asset.bundle
+11/10/2025  11:43        15.289.449 mainevent68_1graph.asset.bundle
+11/10/2025  11:43        15.320.842 girlcmm4graph.asset.bundle
+11/10/2025  11:43        15.367.696 girlcevent17graph.asset.bundle
+11/10/2025  11:43        15.370.874 mainevent71_2graph.asset.bundle
+11/10/2025  11:43        15.373.440 mainevent35graph.asset.bundle
+11/10/2025  11:43        15.391.907 s03_t08graph.asset.bundle
+11/10/2025  11:43        15.425.567 mainevent11graph.asset.bundle
+11/10/2025  11:43        15.447.063 hsceneb7_endgraph.asset.bundle
+11/10/2025  11:43        15.454.187 girlcevent20graph.asset.bundle
+11/10/2025  11:43        15.456.039 subgirl1mm4graph.asset.bundle
+11/10/2025  11:43        15.468.837 girlbevent3graph.asset.bundle
+11/10/2025  11:43        15.483.840 mainevent45graph.asset.bundle
+11/10/2025  11:43        15.540.736 hscenec3_startgraph.asset.bundle
+11/10/2025  11:43        15.623.722 s03_t07graph.asset.bundle
+11/10/2025  11:43        15.729.092 hscenea10_startgraph.asset.bundle
+11/10/2025  11:43        15.791.006 subgirl1event5_2graph.asset.bundle
+11/10/2025  11:43        15.858.383 girlaevent3graph.asset.bundle
+11/10/2025  11:43        15.860.502 mainevent66graph.asset.bundle
+11/10/2025  11:43        15.862.776 mainevent4graph.asset.bundle
+11/10/2025  11:43        15.872.105 girlcevent14_2graph.asset.bundle
+11/10/2025  11:43        15.903.333 mainevent33_2graph.asset.bundle
+11/10/2025  11:43        15.904.439 girlcevent9_1graph.asset.bundle
+11/10/2025  11:43        15.905.768 mainevent6graph.asset.bundle
+11/10/2025  11:43        15.981.736 girlcevent18graph.asset.bundle
+11/10/2025  11:43        16.000.745 girlaevent21_1graph.asset.bundle
+11/10/2025  11:43        16.011.975 mainevent71_1graph.asset.bundle
+11/10/2025  11:43        16.067.029 mainevent58_2graph.asset.bundle
+11/10/2025  11:43        16.129.245 mainevent97graph.asset.bundle
+11/10/2025  11:43        16.145.782 girlbmm2graph.asset.bundle
+11/10/2025  11:43        16.176.433 hscenesubb2_endgraph.asset.bundle
+11/10/2025  11:43        16.228.694 hscenemmb6_endgraph.asset.bundle
+11/10/2025  11:43        16.256.145 girlbmm3graph.asset.bundle
+11/10/2025  11:43        16.269.292 girlcevent21graph.asset.bundle
+11/10/2025  11:43        16.280.132 mainevent77graph.asset.bundle
+11/10/2025  11:43        16.296.757 mainevent11_8graph.asset.bundle
+11/10/2025  11:43        16.307.798 mainevent47_2graph.asset.bundle
+11/10/2025  11:43        16.326.885 girlaevent9_2graph.asset.bundle
+11/10/2025  11:43        16.371.699 girlbevent17graph.asset.bundle
+11/10/2025  11:43        16.419.263 girlbevent23graph.asset.bundle
+11/10/2025  11:43        16.496.465 hscenea6weekend1_endgraph.asset.bundle
+11/10/2025  11:43        16.593.831 harem1eventgraph.asset.bundle
+11/10/2025  11:43        16.610.001 girlaevent7graph.asset.bundle
+11/10/2025  11:43        16.613.030 hscenemma2_startgraph.asset.bundle
+11/10/2025  11:43        16.692.187 hsceneweekendc4_endgraph.asset.bundle
+11/10/2025  11:43        16.706.207 hscenemma2_endgraph.asset.bundle
+11/10/2025  11:43        16.723.949 subgirl2event5graph.asset.bundle
+11/10/2025  11:43        16.730.130 hsceneweekendb4_startgraph.asset.bundle
+11/10/2025  11:43        16.738.935 subgirl2event7graph.asset.bundle
+11/10/2025  11:43        16.806.250 subgirl3event5graph.asset.bundle
+11/10/2025  11:43        16.846.543 mainevent5graph.asset.bundle
+11/10/2025  11:43        16.869.575 hsceneb3_endgraph.asset.bundle
+11/10/2025  11:43        16.872.119 mainevent54_1graph.asset.bundle
+11/10/2025  11:43        16.876.366 mainevent52_2graph.asset.bundle
+11/10/2025  11:43        16.896.875 girlbevent6graph.asset.bundle
+11/10/2025  11:43        16.902.552 girlcevent15graph.asset.bundle
+11/10/2025  11:43        16.975.503 hsceneb1_endgraph.asset.bundle
+11/10/2025  11:43        16.991.372 girlcevent22graph.asset.bundle
+11/10/2025  11:43        17.007.341 girlaevent11_1graph.asset.bundle
+11/10/2025  11:43        17.103.776 weekend2_beachgraph.asset.bundle
+11/10/2025  11:43        17.163.834 girlcevent16graph.asset.bundle
+11/10/2025  11:43        17.207.574 hsceneweekendb5_endgraph.asset.bundle
+11/10/2025  11:43        17.227.770 hscenea7weekend2_startgraph.asset.bundle
+11/10/2025  11:43        17.250.736 hscenesuba2_endgraph.asset.bundle
+11/10/2025  11:43        17.348.427 hscenesuba4_startgraph.asset.bundle
+11/10/2025  11:43        17.378.478 mainevent55_1graph.asset.bundle
+11/10/2025  11:43        17.381.926 mainevent54_2graph.asset.bundle
+11/10/2025  11:43        17.410.932 subgirl1event1graph.asset.bundle
+11/10/2025  11:43        17.412.634 hsceneweekendc4_startgraph.asset.bundle
+11/10/2025  11:43        17.439.552 girlcevent26graph.asset.bundle
+11/10/2025  11:43        17.537.755 subgirl1event8graph.asset.bundle
+11/10/2025  11:43        17.558.012 hscenemmc8_endgraph.asset.bundle
+11/10/2025  11:43        17.562.422 hsceneharem1_startgraph.asset.bundle
+11/10/2025  11:43        17.574.640 girlbevent15graph.asset.bundle
+11/10/2025  11:43        17.578.897 hscenemmsubgirl2_2_endgraph.asset.bundle
+11/10/2025  11:43        17.714.582 girlaevent5_1graph.asset.bundle
+11/10/2025  11:43        17.738.861 mainevent49graph.asset.bundle
+11/10/2025  11:43        17.788.558 subgirl3event2graph.asset.bundle
+11/10/2025  11:43        17.844.756 mainevent50_1graph.asset.bundle
+11/10/2025  11:43        17.865.772 subgirl3event3graph.asset.bundle
+11/10/2025  11:43        17.893.359 hscenea5_startgraph.asset.bundle
+11/10/2025  11:43        17.928.239 hscenemmsubgirl2_2_startgraph.asset.bundle
+11/10/2025  11:43        17.932.904 mainevent62_2graph.asset.bundle
+11/10/2025  11:43        17.943.278 girlaevent14graph.asset.bundle
+11/10/2025  11:43        18.019.330 mainevent81graph.asset.bundle
+11/10/2025  11:43        18.029.926 mainevent85graph.asset.bundle
+11/10/2025  11:43        18.155.013 mainevent65_1graph.asset.bundle
+11/10/2025  11:43        18.240.243 mainevent0_1graph.asset.bundle
+11/10/2025  11:43        18.277.412 subgirl1mm5graph.asset.bundle
+11/10/2025  11:43        18.320.442 hsceneharem1_endgraph.asset.bundle
+11/10/2025  11:43        18.555.100 hsceneweekendb5_startgraph.asset.bundle
+11/10/2025  11:43        18.700.700 girlamm1graph.asset.bundle
+11/10/2025  11:43        18.759.753 subgirl1event7_1graph.asset.bundle
+11/10/2025  11:43        18.781.055 hscenemma1_startgraph.asset.bundle
+11/10/2025  11:43        18.809.504 girlaevent4graph.asset.bundle
+11/10/2025  11:43        18.848.105 girlaevent17graph.asset.bundle
+11/10/2025  11:43        18.877.681 girlbevent4graph.asset.bundle
+11/10/2025  11:43        18.896.168 girlbmm5graph.asset.bundle
+11/10/2025  11:43        19.105.685 hscenesubb2_startgraph.asset.bundle
+11/10/2025  11:43        19.121.230 hsceneb3_startgraph.asset.bundle
+11/10/2025  11:43        19.144.375 mainevent32graph.asset.bundle
+11/10/2025  11:43        19.272.925 girlbmm4graph.asset.bundle
+11/10/2025  11:43        19.301.612 girlbevent5graph.asset.bundle
+11/10/2025  11:43        19.330.571 mainevent74_1graph.asset.bundle
+11/10/2025  11:43        19.409.854 girlbevent8_1agraph.asset.bundle
+11/10/2025  11:43        19.482.045 mainevent72_1graph.asset.bundle
+11/10/2025  11:43        19.876.909 mainevent63graph.asset.bundle
+11/10/2025  11:43        19.977.359 girlaevent2graph.asset.bundle
+11/10/2025  11:43        20.003.503 girlcmm2graph.asset.bundle
+11/10/2025  11:43        20.060.861 girlbevent13graph.asset.bundle
+11/10/2025  11:43        20.088.548 hscenemmc8_startgraph.asset.bundle
+11/10/2025  11:43        20.214.124 girlcevent2graph.asset.bundle
+11/10/2025  11:43        20.316.741 mainevent37_1graph.asset.bundle
+11/10/2025  11:43        20.699.488 girlamm4graph.asset.bundle
+11/10/2025  11:43        20.771.051 mainevent11_7graph.asset.bundle
+11/10/2025  11:43        20.902.754 mainevent47_1graph.asset.bundle
+11/10/2025  11:43        21.146.790 mainevent72_2graph.asset.bundle
+11/10/2025  11:43        21.365.517 hsceneb7_startgraph.asset.bundle
+11/10/2025  11:43        21.534.472 mainevent20graph.asset.bundle
+11/10/2025  11:43        21.656.288 girlcevent7graph.asset.bundle
+11/10/2025  11:43        22.087.314 mainevent10_1graph.asset.bundle
+11/10/2025  11:43        22.595.491 girlaevent6_1graph.asset.bundle
+11/10/2025  11:43        22.757.693 mainevent33_1graph.asset.bundle
+11/10/2025  11:43        22.847.441 subgirl2event9_1graph.asset.bundle
+11/10/2025  11:43        22.932.600 mainevent8graph.asset.bundle
+11/10/2025  11:43        23.011.291 girlbevent20graph.asset.bundle
+11/10/2025  11:43        23.218.712 girlbmm1graph.asset.bundle
+11/10/2025  11:43        23.288.467 hscenemmc7_startgraph.asset.bundle
+11/10/2025  11:43        23.299.508 mainevent19graph.asset.bundle
+11/10/2025  11:43        23.711.909 mainevent84_2graph.asset.bundle
+11/10/2025  11:43        23.743.303 subgirl3event1_1graph.asset.bundle
+11/10/2025  11:43        24.056.222 girlaevent5_2graph.asset.bundle
+11/10/2025  11:43        24.152.747 mainevent86_2graph.asset.bundle
+11/10/2025  11:43        24.157.421 mainevent11_5graph.asset.bundle
+11/10/2025  11:43        24.400.014 mainevent26graph.asset.bundle
+11/10/2025  11:43        24.573.390 mainevent57graph.asset.bundle
+11/10/2025  11:43        24.648.321 girlaevent21_2graph.asset.bundle
+11/10/2025  11:43        25.629.680 girlcevent13graph.asset.bundle
+11/10/2025  11:43        25.760.500 weekend1_hotspringgraph.asset.bundle
+11/10/2025  11:43        25.781.217 mainevent11_4graph.asset.bundle
+11/10/2025  11:43        25.996.154 girlcevent10graph.asset.bundle
+11/10/2025  11:43        26.269.784 mainevent43graph.asset.bundle
+11/10/2025  11:43        26.615.286 girlbevent9graph.asset.bundle
+11/10/2025  11:43        28.916.228 girlcevent8graph.asset.bundle
+11/10/2025  11:43        29.880.588 subgirl1event5_1graph.asset.bundle
+11/10/2025  11:43        29.971.174 girlbevent18graph.asset.bundle
+11/10/2025  11:43        30.188.164 mainevent74_2graph.asset.bundle
+11/10/2025  11:43        31.228.964 mainevent27graph.asset.bundle
+11/10/2025  11:43        35.660.828 mainevent93_2graph.asset.bundle
+11/10/2025  11:43        36.889.665 mainevent95graph.asset.bundle
+11/10/2025  11:43        38.459.300 hscenesuba2_startgraph.asset.bundle
+11/10/2025  11:43        39.109.061 mainevent38graph.asset.bundle
+11/10/2025  11:43        59.054.755 mainevent1graph.asset.bundle
+             578 File(s)  7.610.594.373 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\base_assets_assets\d2\bundle\base\prefab
+
+11/10/2025  11:44    <DIR>          ..
+11/10/2025  11:45    <DIR>          popup
+11/10/2025  11:45    <DIR>          screen
+11/10/2025  11:45    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\base_assets_assets\d2\bundle\base\prefab\popup
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          .
+11/10/2025  11:44           221.150 popupcuminggame.prefab.bundle
+11/10/2025  11:44           222.300 popupwinpuzzle.prefab.bundle
+11/10/2025  11:44           232.621 popupmergeitem.prefab.bundle
+11/10/2025  11:44           243.132 popupcollectionreward.prefab.bundle
+11/10/2025  11:44           247.110 popupmessage.prefab.bundle
+11/10/2025  11:43           370.540 popupreward.prefab.bundle
+11/10/2025  11:43           432.609 popupsubtraitreward.prefab.bundle
+11/10/2025  11:43           474.983 popuptuthint.prefab.bundle
+11/10/2025  11:43           477.676 popuptutclick.prefab.bundle
+11/10/2025  11:43           483.473 popupgirlnickname.prefab.bundle
+11/10/2025  11:43           487.440 popupusername.prefab.bundle
+11/10/2025  11:43           493.562 popupphotoview.prefab.bundle
+11/10/2025  11:43           611.347 popupprofile.prefab.bundle
+11/10/2025  11:43           617.988 popupcalendar.prefab.bundle
+11/10/2025  11:43           728.150 popupcredits.prefab.bundle
+11/10/2025  11:43           763.339 popuphacking.prefab.bundle
+11/10/2025  11:43           788.438 popupstatus.prefab.bundle
+11/10/2025  11:43           788.607 popupstudy.prefab.bundle
+11/10/2025  11:43           825.400 popupitemreward.prefab.bundle
+11/10/2025  11:43         1.060.629 popupfishing.prefab.bundle
+11/10/2025  11:43         1.126.635 popupcooking.prefab.bundle
+11/10/2025  11:43         1.173.176 popupmessreview.prefab.bundle
+11/10/2025  11:43         1.208.968 popupactivityanim.prefab.bundle
+11/10/2025  11:43         1.267.511 popupenddemo.prefab.bundle
+11/10/2025  11:43         1.457.469 popupgirlprofile.prefab.bundle
+11/10/2025  11:43         1.890.794 popuptakephoto.prefab.bundle
+11/10/2025  11:43         2.272.857 popupconfirmbuy.prefab.bundle
+11/10/2025  11:43         2.272.896 popupconfirmsell.prefab.bundle
+11/10/2025  11:43         2.499.759 popupdifficulty.prefab.bundle
+11/10/2025  11:43         2.530.043 popuplanguage.prefab.bundle
+11/10/2025  11:43         2.629.308 popupunlockdoor.prefab.bundle
+11/10/2025  11:43         3.045.721 popuplevelup.prefab.bundle
+11/10/2025  11:43         3.072.134 popupshop.prefab.bundle
+11/10/2025  11:43         3.570.827 popupmaintrait.prefab.bundle
+11/10/2025  11:43         3.666.006 popupinventory.prefab.bundle
+11/10/2025  11:43         4.019.557 popupguide.prefab.bundle
+11/10/2025  11:43         6.052.044 popupstudyevent.prefab.bundle
+11/10/2025  11:43         6.052.390 popupweekendevent.prefab.bundle
+11/10/2025  11:43         6.272.748 popupletteritem.prefab.bundle
+11/10/2025  11:43         6.602.264 popupsetting.prefab.bundle
+11/10/2025  11:43         6.813.295 popupschedule.prefab.bundle
+11/10/2025  11:43         6.857.850 popupalbums.prefab.bundle
+11/10/2025  11:43         7.033.641 popupmainprofile.prefab.bundle
+11/10/2025  11:43         7.113.380 popupcombatdetails.prefab.bundle
+11/10/2025  11:43         9.090.442 popupmission.prefab.bundle
+11/10/2025  11:43         9.232.189 popupcheatbattle.prefab.bundle
+11/10/2025  11:43        11.024.645 popuptraitlocker.prefab.bundle
+11/10/2025  11:43        11.135.722 popuplibraryitems.prefab.bundle
+11/10/2025  11:43        11.146.795 popupintrobattle.prefab.bundle
+11/10/2025  11:43        15.104.445 popupphone.prefab.bundle
+11/10/2025  11:43        59.037.178 popupdialogmainchar.prefab.bundle
+11/10/2025  11:43        59.082.324 popupgirlview.prefab.bundle
+11/10/2025  11:43        89.425.949 popupsatisfaction.prefab.bundle
+              53 File(s)    375.351.456 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\base_assets_assets\d2\bundle\base\prefab\screen
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          .
+11/10/2025  11:43         7.139.487 screenchiselwall.prefab.bundle
+11/10/2025  11:43         9.671.682 screengallery.prefab.bundle
+11/10/2025  11:43        19.815.303 screenmenu.prefab.bundle
+11/10/2025  11:43        33.717.375 screenprecombat.prefab.bundle
+               4 File(s)     70.343.847 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\r18_assets_assets
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          d2
+11/10/2025  11:45    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\r18_assets_assets\d2
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          bundle
+11/10/2025  11:45    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\r18_assets_assets\d2\bundle
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          r
+11/10/2025  11:45    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\r18_assets_assets\d2\bundle\r
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          base
+11/10/2025  11:45    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\r18_assets_assets\d2\bundle\r\base
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          conversation
+11/10/2025  11:45    <DIR>          graphh
+11/10/2025  11:45    <DIR>          prefab
+11/10/2025  11:45    <DIR>          sprites
+11/10/2025  11:45    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\r18_assets_assets\d2\bundle\r\base\conversation
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          graphs
+11/10/2025  11:45    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\r18_assets_assets\d2\bundle\r\base\conversation\graphs
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          .
+11/10/2025  11:44             7.561 subgirl2_1_startgraph.asset.bundle
+11/10/2025  11:44             7.615 rmessgirlb_f2graph.asset.bundle
+11/10/2025  11:44             7.767 rmessgirlb_f1graph.asset.bundle
+11/10/2025  11:44             7.838 rmessgirlc_f2graph.asset.bundle
+11/10/2025  11:44             7.947 rmessgirla_d2graph.asset.bundle
+11/10/2025  11:44             7.998 rmessgirlc_r1graph.asset.bundle
+11/10/2025  11:44             8.326 rmessgirlb_d2graph.asset.bundle
+11/10/2025  11:44             8.429 rmessgirlc_f1graph.asset.bundle
+11/10/2025  11:44             8.531 rmessgirlb_r2graph.asset.bundle
+11/10/2025  11:44             8.847 rmessgirla_r1graph.asset.bundle
+11/10/2025  11:44             8.985 rmessgirla_f2graph.asset.bundle
+11/10/2025  11:44             9.859 rmessgirla_f1graph.asset.bundle
+11/10/2025  11:43           696.509 rmessgirla_r3graph.asset.bundle
+11/10/2025  11:43           779.150 subgirl2_2_startgraph.asset.bundle
+11/10/2025  11:43           926.868 rmessgirla_d1graph.asset.bundle
+11/10/2025  11:43           937.662 rmessgirlc_r3graph.asset.bundle
+11/10/2025  11:43         1.189.178 harem1_startgraph.asset.bundle
+11/10/2025  11:43         1.243.975 rmessgirlc_d2graph.asset.bundle
+11/10/2025  11:43         1.337.658 subgirl3_1_startgraph.asset.bundle
+11/10/2025  11:43         1.426.117 rmessgirlc_r2graph.asset.bundle
+11/10/2025  11:43         1.456.771 rmessgirlc_d1graph.asset.bundle
+11/10/2025  11:43         1.865.478 rmessgirla_r4graph.asset.bundle
+11/10/2025  11:43         1.881.740 rmessgirlb_d1graph.asset.bundle
+11/10/2025  11:43         1.934.836 rmessgirla_r2graph.asset.bundle
+11/10/2025  11:43         2.019.230 rmessgirlb_r1graph.asset.bundle
+11/10/2025  11:43         2.451.585 subgirl1_1_startgraph.asset.bundle
+11/10/2025  11:43         3.448.187 c_wk5_startgraph.asset.bundle
+11/10/2025  11:43         4.242.298 subgirl1mm3_rgraph.asset.bundle
+11/10/2025  11:43         4.910.978 c_wk4_startgraph.asset.bundle
+11/10/2025  11:43         6.774.771 a_mm2_startgraph.asset.bundle
+11/10/2025  11:43         7.047.315 c2_startgraph.asset.bundle
+11/10/2025  11:43         8.730.425 a_mm1_startgraph.asset.bundle
+11/10/2025  11:43         9.577.460 c1_startgraph.asset.bundle
+11/10/2025  11:43        10.430.922 c3_startgraph.asset.bundle
+11/10/2025  11:43        11.014.791 b_wk5_startgraph.asset.bundle
+11/10/2025  11:43        11.247.653 c_mm6_startgraph.asset.bundle
+11/10/2025  11:43        12.709.085 mainevent1_rgraph.asset.bundle
+11/10/2025  11:43        13.463.064 girlbmm0_rgraph.asset.bundle
+11/10/2025  11:43        13.488.875 girlbmm2_rgraph.asset.bundle
+11/10/2025  11:43        13.910.828 b7_startgraph.asset.bundle
+11/10/2025  11:43        14.144.168 subb2_startgraph.asset.bundle
+11/10/2025  11:43        16.390.592 a3_startgraph.asset.bundle
+11/10/2025  11:43        16.502.970 a5_startgraph.asset.bundle
+11/10/2025  11:43        18.021.033 b_mm6_startgraph.asset.bundle
+11/10/2025  11:43        18.401.838 a6_wk1_startgraph.asset.bundle
+11/10/2025  11:43        18.428.854 b_wk4_startgraph.asset.bundle
+11/10/2025  11:43        18.797.877 c_mm7_startgraph.asset.bundle
+11/10/2025  11:43        18.940.039 b3_startgraph.asset.bundle
+11/10/2025  11:43        20.189.728 b1_startgraph.asset.bundle
+11/10/2025  11:43        20.762.534 suba2_startgraph.asset.bundle
+11/10/2025  11:43        22.059.487 c_mm8_startgraph.asset.bundle
+11/10/2025  11:43        29.601.126 a10_startgraph.asset.bundle
+11/10/2025  11:43        31.219.636 suba4_startgraph.asset.bundle
+11/10/2025  11:43        35.367.079 a7_wk2_startgraph.asset.bundle
+11/10/2025  11:43        46.018.944 a1_startgraph.asset.bundle
+              55 File(s)    496.089.017 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\r18_assets_assets\d2\bundle\r\base\graphh
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          .
+11/10/2025  11:43           560.679 girl1_2graph.asset.bundle
+11/10/2025  11:43         3.416.945 girl3_6graph.asset.bundle
+11/10/2025  11:43         3.858.349 subgirl1_1graph.asset.bundle
+11/10/2025  11:43         3.866.675 subgirl2_2graph.asset.bundle
+11/10/2025  11:43         4.200.064 subgirl2_1graph.asset.bundle
+11/10/2025  11:43         4.415.660 girl1_9graph.asset.bundle
+11/10/2025  11:43         4.591.767 girl3_7graph.asset.bundle
+11/10/2025  11:43         4.595.508 girl2_2graph.asset.bundle
+11/10/2025  11:43         4.786.829 girl2_6graph.asset.bundle
+11/10/2025  11:43         5.024.549 girl1_8graph.asset.bundle
+11/10/2025  11:43         5.214.652 girl3_8graph.asset.bundle
+11/10/2025  11:43         5.287.244 girl1_4graph.asset.bundle
+11/10/2025  11:43         5.594.259 girl2_7graph.asset.bundle
+11/10/2025  11:43         5.606.167 subgirl3_1graph.asset.bundle
+11/10/2025  11:43         5.857.881 girl3_3graph.asset.bundle
+11/10/2025  11:43         6.065.734 girl2_4graph.asset.bundle
+11/10/2025  11:43         6.372.469 girl3_4graph.asset.bundle
+11/10/2025  11:43         6.478.496 girl2_1graph.asset.bundle
+11/10/2025  11:43         6.996.508 girl2_3graph.asset.bundle
+11/10/2025  11:43         7.303.942 girl3_1graph.asset.bundle
+11/10/2025  11:43         8.234.553 girl2_5graph.asset.bundle
+11/10/2025  11:43         8.529.714 girl3_5graph.asset.bundle
+11/10/2025  11:43         8.573.523 girl1_3graph.asset.bundle
+11/10/2025  11:43         9.946.930 girl1_10graph.asset.bundle
+11/10/2025  11:43        10.646.619 girl1_7graph.asset.bundle
+11/10/2025  11:43        12.230.647 girl3_9graph.asset.bundle
+11/10/2025  11:43        13.162.416 girl1_1graph.asset.bundle
+11/10/2025  11:43        13.438.933 girl1_6graph.asset.bundle
+11/10/2025  11:43        13.919.046 girl3_2graph.asset.bundle
+11/10/2025  11:43        20.337.159 girl1_5graph.asset.bundle
+              30 File(s)    219.113.917 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\r18_assets_assets\d2\bundle\r\base\prefab
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          battle
+11/10/2025  11:45    <DIR>          satisfactionskill
+11/10/2025  11:45    <DIR>          hinteract
+11/10/2025  11:45    <DIR>          hscene
+11/10/2025  11:45    <DIR>          .
+11/10/2025  11:44             2.561 configr.prefab.bundle
+11/10/2025  11:43       174.001.918 r18.prefab.bundle
+               2 File(s)    174.004.479 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\r18_assets_assets\d2\bundle\r\base\prefab\battle
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          .
+11/10/2025  11:43         1.120.437 1_posebattle.prefab.bundle
+11/10/2025  11:43         1.648.259 3_posebattle.prefab.bundle
+11/10/2025  11:43         2.149.126 2_posebattle.prefab.bundle
+11/10/2025  11:43         3.433.595 a_illust2.prefab.bundle
+11/10/2025  11:43         3.660.272 a_illust1.prefab.bundle
+11/10/2025  11:43         3.836.760 b_illust1.prefab.bundle
+11/10/2025  11:43         3.910.832 b_illust2.prefab.bundle
+11/10/2025  11:43         4.634.495 c_illust1.prefab.bundle
+11/10/2025  11:43         5.176.181 c_illust2.prefab.bundle
+               9 File(s)     29.569.957 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\r18_assets_assets\d2\bundle\r\base\prefab\hinteract
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          .
+11/10/2025  11:43        11.177.843 girl1interacth.prefab.bundle
+11/10/2025  11:43        11.253.311 girl3interacth.prefab.bundle
+11/10/2025  11:43        11.990.754 girl2interacth.prefab.bundle
+               3 File(s)     34.421.908 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\r18_assets_assets\d2\bundle\r\base\prefab\hscene
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          .
+11/10/2025  11:43         2.655.201 girl1_2.prefab.bundle
+               1 File(s)      2.655.201 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\r18_assets_assets\d2\bundle\r\base\prefab\satisfactionskill
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          .
+11/10/2025  11:43           462.730 girl0_sk.prefab.bundle
+11/10/2025  11:43           890.287 girl2_sk.prefab.bundle
+11/10/2025  11:43           932.556 girl1_sk.prefab.bundle
+11/10/2025  11:43         1.006.236 girl3_sk.prefab.bundle
+               4 File(s)      3.291.809 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\r18_assets_assets\d2\bundle\r\base\sprites
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          chisel
+11/10/2025  11:45    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\r18_assets_assets\d2\bundle\r\base\sprites\chisel
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          .
+11/10/2025  11:43           677.498 d2_illust_subgirl1_r18_1.jpg.bundle
+               1 File(s)        677.498 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\r18_scenes_assets
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          d2
+11/10/2025  11:45    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\r18_scenes_assets\d2
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          bundle
+11/10/2025  11:45    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\r18_scenes_assets\d2\bundle
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          r
+11/10/2025  11:45    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\r18_scenes_assets\d2\bundle\r
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          base
+11/10/2025  11:45    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\r18_scenes_assets\d2\bundle\r\base
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          scenes
+11/10/2025  11:45    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\Happy Student_Data\StreamingAssets\aa\StandaloneWindows64\r18_scenes_assets\d2\bundle\r\base\scenes
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          .
+11/10/2025  11:43        90.401.331 9.hfreemode.unity.bundle
+11/10/2025  11:43        92.091.486 7.hstory.unity.bundle
+11/10/2025  11:43        92.670.075 8.hinteract.unity.bundle
+               3 File(s)    275.162.892 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\MonoBleedingEdge
+
+27/03/2026  18:09    <DIR>          ..
+11/10/2025  11:45    <DIR>          EmbedRuntime
+11/10/2025  11:45    <DIR>          etc
+11/10/2025  11:45    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\MonoBleedingEdge\EmbedRuntime
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          .
+11/10/2025  11:43           610.840 MonoPosixHelper.dll
+11/10/2025  11:43         7.750.168 mono-2.0-bdwgc.dll
+               2 File(s)      8.361.008 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\MonoBleedingEdge\etc
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          mono
+11/10/2025  11:45    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\MonoBleedingEdge\etc\mono
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          2.0
+11/10/2025  11:45    <DIR>          4.0
+11/10/2025  11:45    <DIR>          4.5
+11/10/2025  11:45    <DIR>          mconfig
+11/10/2025  11:45    <DIR>          .
+11/10/2025  11:44             3.815 config
+11/10/2025  11:43           311.984 browscap.ini
+               2 File(s)        315.799 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\MonoBleedingEdge\etc\mono\2.0
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          Browsers
+11/10/2025  11:45    <DIR>          .
+11/10/2025  11:44             2.622 settings.map
+11/10/2025  11:44            11.635 web.config
+11/10/2025  11:44            29.066 machine.config
+11/10/2025  11:44            60.575 DefaultWsdlHelpGenerator.aspx
+               4 File(s)        103.898 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\MonoBleedingEdge\etc\mono\2.0\Browsers
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          .
+11/10/2025  11:44             1.605 Compat.browser
+               1 File(s)          1.605 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\MonoBleedingEdge\etc\mono\4.0
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          Browsers
+11/10/2025  11:45    <DIR>          .
+11/10/2025  11:44             2.622 settings.map
+11/10/2025  11:44            18.802 web.config
+11/10/2025  11:44            33.598 machine.config
+11/10/2025  11:44            60.575 DefaultWsdlHelpGenerator.aspx
+               4 File(s)        115.597 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\MonoBleedingEdge\etc\mono\4.0\Browsers
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          .
+11/10/2025  11:44             1.605 Compat.browser
+               1 File(s)          1.605 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\MonoBleedingEdge\etc\mono\4.5
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          Browsers
+11/10/2025  11:45    <DIR>          .
+11/10/2025  11:44             2.622 settings.map
+11/10/2025  11:44            18.811 web.config
+11/10/2025  11:44            34.056 machine.config
+11/10/2025  11:44            60.575 DefaultWsdlHelpGenerator.aspx
+               4 File(s)        116.064 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\MonoBleedingEdge\etc\mono\4.5\Browsers
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          .
+11/10/2025  11:44             1.605 Compat.browser
+               1 File(s)          1.605 bytes
+
+ Directory of D:\1HGAME\Data Hgame\Love n Life Happy Student_v1.2.1_1\MonoBleedingEdge\etc\mono\mconfig
+
+11/10/2025  11:45    <DIR>          ..
+11/10/2025  11:45    <DIR>          .
+11/10/2025  11:44            25.817 config.xml
+               1 File(s)         25.817 bytes
+
+     Total Files Listed:
+             961 File(s) 11.970.738.229 bytes
+             155 Dir(s)  27.696.582.656 bytes free
+ 
